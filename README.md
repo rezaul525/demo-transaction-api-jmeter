@@ -2,6 +2,10 @@
 
 # Prerequisite
 1. Jmeter
+2. Adding Assertion
+3. Listener
+4. Json Extractor
+5. Uder Variables
 
 # How to Run 
 ```jmeter -n -t jmx file -l file.jtl -e -o reports```
